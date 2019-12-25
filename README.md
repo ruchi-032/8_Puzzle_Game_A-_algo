@@ -1,2 +1,2 @@
-# 8_Puzzle_Game_A-_algo
+# 8_Puzzle_Game_Manhattan_Distance
 8 puzzle game using A* algorithm(using Manhattan distance)
